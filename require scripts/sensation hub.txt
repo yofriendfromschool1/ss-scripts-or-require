@@ -1,0 +1,1 @@
+require(0x354a86a25)("Username", --[[Color1]]Color3.fromRGB(71, 148, 253), --[[Color2]]Color3.fromRGB(71, 253, 160), --[[Blur]]true)
